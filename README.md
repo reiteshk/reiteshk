@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm Reitesh K 🧑‍💻</h1>
 <h2 align="center">Exploring ideas, mastering skills, living through code.</h2>
 
-<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <p align="left"> <a href="https://twitter.com/reiitesh" target="blank"><img src="https://img.shields.io/twitter/follow/reiitesh?logo=twitter&style=for-the-badge" alt="reiitesh" /></a> </p>
 
 - 🌱 I'm currently learning **RUST**
